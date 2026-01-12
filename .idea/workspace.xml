@@ -6,7 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="0f2f0da0-74a9-4ec7-8d3c-6f161aca8e96" name="更改" comment="first">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_introduction/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_introduction/index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/image-classification-dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/image-classification-dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression-concise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression-concise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/linear-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression-concise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression-concise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_linear-networks/softmax-regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/kaggle-house-price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/kaggle-house-price.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/mlp-scratch.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/mlp-scratch.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/numerical-stability-and-init.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/submission.csv" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/submission.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/underfit-overfit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/underfit-overfit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/weight-decay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_multilayer-perceptrons/weight-decay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/autograd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/calculus.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/calculus.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/linear-algebra.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/linear-algebra.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/lookup-api.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/lookup-api.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/probability.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/d2l-zh/pytorch/chapter_preliminaries/probability.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +57,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/python_code/dl_learn&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/python_code/timesnet_anomaly&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -69,7 +86,19 @@
       <workItem from="1766494205438" duration="1345000" />
       <workItem from="1766495587885" duration="4355000" />
       <workItem from="1766500494594" duration="6125000" />
-      <workItem from="1766732819447" duration="1409000" />
+      <workItem from="1766732819447" duration="4179000" />
+      <workItem from="1766737595852" duration="651000" />
+      <workItem from="1766906010695" duration="3016000" />
+      <workItem from="1766990930959" duration="74000" />
+      <workItem from="1767009610025" duration="3061000" />
+      <workItem from="1767020551295" duration="213000" />
+      <workItem from="1767055555705" duration="19000" />
+      <workItem from="1767096904845" duration="731000" />
+      <workItem from="1767139444071" duration="37000" />
+      <workItem from="1767860475731" duration="658000" />
+      <workItem from="1767919784673" duration="2989000" />
+      <workItem from="1768197371403" duration="3480000" />
+      <workItem from="1768219739690" duration="1672000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <option name="closed" value="true" />
@@ -79,13 +108,62 @@
       <option name="project" value="LOCAL" />
       <updated>1766733822641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1766734426064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766734426064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="learn finish">
+      <option name="closed" value="true" />
+      <created>1766735419777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766735419777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="learn finish">
+      <option name="closed" value="true" />
+      <created>1766736744204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766736744204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="learn finish">
+      <option name="closed" value="true" />
+      <created>1766736759420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766736759420</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first">
+      <option name="closed" value="true" />
+      <created>1766736970461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766736970461</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first">
+      <option name="closed" value="true" />
+      <created>1767013650764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767013650764</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn finish" />
     <MESSAGE value="first" />
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
